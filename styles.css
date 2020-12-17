@@ -16,10 +16,16 @@ body{
 .disney{
     width: 500px;
     height: 250px;
+    border-style: solid;
 }
 title{
     font-family: Arial;
     font-weight: bold;
     font-size: 22px;
     text-shadow: 2px 2px black ;
+}
+h1{
+    font-size: 32px;
+    font-weight: bold;
+    text-decoration: underline;
 }

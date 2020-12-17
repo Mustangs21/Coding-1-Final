@@ -1,1 +1,1 @@
-This webiste is for people who love going to theme parks and riding roller coasters.
+My name is Logan Stranak and I am a senior at Madison Academic Magnet High School
