@@ -32,8 +32,10 @@ h1{
 .extra-text{
     text-align:center;
     font-family: Arial;
+    font-size: 22px;
 }
 .pepsi{
     height: 100px;
     width: 100px;
+    border-style: solid;
 }
