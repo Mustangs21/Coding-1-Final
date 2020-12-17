@@ -16,7 +16,7 @@ body{
 .disney{
     width: 500px;
     height: 250px;
-    border-style: solid;
+    border-style: groove;
 }
 title{
     font-family: Arial;
