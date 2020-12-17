@@ -1,2 +1,1 @@
-# Coding-1-Final
- These are the starter files for F2020 Coding 1
+This webiste is for people who love going to theme parks and riding roller coasters.
